@@ -12,3 +12,9 @@
 ## 命令速查
 
 见 [notes/git-cheatsheet.md](notes/git-cheatsheet.md)
+
+## 学习记录
+
+| 日期 | 我做了什么 |
+| --- | --- |
+| 2026-10-30 | 用 `git init` 建仓库，完成第一次提交 |
